@@ -1,0 +1,8 @@
+names:
+- non-metallic
+- metalic
+- nonmetalic
+nc: 3
+path: ../data_with_july2022.v5i.vocYOLO
+train: train
+val: val

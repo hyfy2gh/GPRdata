@@ -1,0 +1,3 @@
+non-metallic
+metalic
+nonmetalic

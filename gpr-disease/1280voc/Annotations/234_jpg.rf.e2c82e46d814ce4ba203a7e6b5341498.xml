@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>234_jpg.rf.e2c82e46d814ce4ba203a7e6b5341498.jpg</filename>
+	<path>234_jpg.rf.e2c82e46d814ce4ba203a7e6b5341498.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>loose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>468</xmin>
+			<xmax>597</xmax>
+			<ymin>494</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>
